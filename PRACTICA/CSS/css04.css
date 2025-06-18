@@ -1,0 +1,44 @@
+p {
+    overflow: hidden;
+}
+
+#parrafo1 {
+    border: solid ;
+    width: 50%;
+    height: 30px;
+}
+#parrafo2 {
+    border:dashed ;
+    width: 50%;
+    height: 30px;
+}
+#parrafo3 {
+    border: dotted ;
+    width: 50%;
+    height: 30px;
+}
+#parrafo4 {
+    border: double ;
+    width: 50%;
+    height: 30px;
+}
+#parrafo5 {
+    border: groove ;
+    width: 50%;
+    height: 30px;
+}
+#parrafo6 {
+    border: ridge ;
+    width: 50%;
+    height: 30px;
+}
+#parrafo7 {
+    border: inset ;
+    width: 50%;
+    height: 30px;
+}
+#parrafo8 {
+    border: outset ;
+    width: 50%;
+    height: 30px;
+}

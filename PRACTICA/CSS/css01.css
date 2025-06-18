@@ -1,0 +1,13 @@
+body{
+    color: red;
+}
+#Parrafo1 {
+    color: inherit;
+}
+p {
+    color: inherit;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}

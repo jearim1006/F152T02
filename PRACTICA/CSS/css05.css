@@ -1,0 +1,26 @@
+
+
+.centrado {
+    color: aqua;
+    text-align: center;
+    height: automatic;
+    width: 50%;
+    border: solid black 2px;
+    padding: 10px blue;
+    margin: 0 auto;
+}
+.derecha {
+    color: red;
+    text-align: right;
+    height: automatic;
+    width: 50%;
+    margin-left: auto;
+}
+
+.izquierda {
+    color: green;
+    text-align: left;
+    height: automatic;
+    width: 50%;
+    margin-right: auto;
+}

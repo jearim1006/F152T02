@@ -1,0 +1,24 @@
+#parrafo1 {
+    color: yellow;
+    background-color: blue;
+    width: 400px;
+    height: 350px;
+    border: 2px solid green;
+    overflow: visible;
+}
+#parrafo2 {
+    color: blue;
+    background-color: yellow;
+    width: 400px;
+    height: 250px;
+    border: 2px solid violet;
+    overflow: hidden;
+}
+#parrafo3 {
+    color: red;
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    border: 2px solid black;
+    overflow: scroll;
+}
